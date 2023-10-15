@@ -1,0 +1,11 @@
+/home/noel/Desktop/pro/HULK/HulkLibrary/bin/Debug/net7.0/HulkLibrary.deps.json
+/home/noel/Desktop/pro/HULK/HulkLibrary/bin/Debug/net7.0/HulkLibrary.dll
+/home/noel/Desktop/pro/HULK/HulkLibrary/bin/Debug/net7.0/HulkLibrary.pdb
+/home/noel/Desktop/pro/HULK/HulkLibrary/obj/Debug/net7.0/HulkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/noel/Desktop/pro/HULK/HulkLibrary/obj/Debug/net7.0/HulkLibrary.AssemblyInfoInputs.cache
+/home/noel/Desktop/pro/HULK/HulkLibrary/obj/Debug/net7.0/HulkLibrary.AssemblyInfo.cs
+/home/noel/Desktop/pro/HULK/HulkLibrary/obj/Debug/net7.0/HulkLibrary.csproj.CoreCompileInputs.cache
+/home/noel/Desktop/pro/HULK/HulkLibrary/obj/Debug/net7.0/HulkLibrary.dll
+/home/noel/Desktop/pro/HULK/HulkLibrary/obj/Debug/net7.0/refint/HulkLibrary.dll
+/home/noel/Desktop/pro/HULK/HulkLibrary/obj/Debug/net7.0/HulkLibrary.pdb
+/home/noel/Desktop/pro/HULK/HulkLibrary/obj/Debug/net7.0/ref/HulkLibrary.dll
