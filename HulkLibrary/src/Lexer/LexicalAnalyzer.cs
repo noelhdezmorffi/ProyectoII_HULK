@@ -47,7 +47,7 @@ public class LexicalAnalyzer
     {
         List<Token> tokens = new List<Token>();
 
-        TokenReader stream = new TokenReader(fileName, code);
+        TokenReader stream = new TokenReader(code);
 
         while (!stream.EOF)
         {
@@ -89,15 +89,13 @@ public class LexicalAnalyzer
 
     class TokenReader
     {
-        readonly string fileName;
         readonly string code;
         int pos;
         int line;
         int lastLB;
 
-        public TokenReader(string fileName, string code)
+        public TokenReader(string code)
         {
-            this.fileName = fileName;
             this.code = code;
             this.pos = 0;
             this.line = 1;
@@ -114,7 +112,6 @@ public class LexicalAnalyzer
             {
                 return new CodeLocation
                 {
-                    File = fileName,
                     Line = line,
                     Column = pos - lastLB
                 };
